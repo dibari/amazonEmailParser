@@ -116,6 +116,3 @@ function parseAmazonEmail(passedEmailHtml) {
 
 	return parse();
 };
-
-
-//$('h3:contains("Order Details")').closest("tr").next()
